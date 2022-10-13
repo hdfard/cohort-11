@@ -1,0 +1,68 @@
+
+
+/* banner */
+
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.banner {
+  background-image: url(./banner.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 80vh;
+  width: 100%;
+}
+
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    padding: 150px;
+}
+
+nav {
+    text-align: center;
+    }
+
+li {
+    display: inline;
+}
+
+li a {
+    color:white;
+    padding: 35px;
+    text-decoration: none;
+}
+
+/* content */
+
+h2 {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+    padding: 50px; 
+      } 
+
+
+p {
+    line-height: 1.6rem;
+    padding: 50px;
+}
+
+.willow {
+    float: right;
+}
+
+.floatright {
+    float: right;
+}
