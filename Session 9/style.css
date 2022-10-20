@@ -1,0 +1,107 @@
+
+body {
+    background-image: url(./images/background.png);
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+/* NAVBAR */
+.nav-list {
+    margin-right: auto;
+    padding: 1rem 0;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    font-size: 20px;
+
+}
+
+
+.nav-item a {
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 3rem;
+}
+
+
+.cart {
+   margin-left: auto;
+   padding: 20px;
+}
+
+.logo {
+    padding-left: 3rem;
+}
+
+/* MAIN */
+
+.girl {
+    float: right;
+    width: 550px;
+    height: 550px;
+}
+
+/* SIDEBAR */
+
+ul li {
+    list-style-type: none;
+
+}
+
+.icons ul li {
+
+    margin-top: 1rem;
+    position: relative;
+    top: 150px;
+
+}
+
+/* BUTTONS */
+
+button {
+    margin-left: 300px;
+    position: relative;
+    bottom: 150px;
+    background: linear-gradient(
+        58deg,
+        rgb(115, 252, 238) 2%,
+        rgb(215, 102, 241) 100%);
+    font-family: Arial, Helvetica, sans-serif;  
+    border: none;  
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+
+.content p {
+    margin-left: 300px;
+    position: relative;
+    bottom: 150px; 
+    font-size: 20px;
+    line-height: 1.5;
+    
+}
+
+
+.nextarrow img {
+    display: inline-flex;
+    margin-left: 450px;
+    position: relative;
+    bottom: 150px; 
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 60px;
+
+}
+
+.backarrow img {
+    display: inline-flex;
+    margin-left: 300px;
+    position: relative;
+    bottom: 211px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 60px;
+}
