@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(./Food/orangefood.jpg);
+    background-size: cover;
+    background-repeat: none;
+
+}
+
+header {
+    padding-top: 150px;
+    margin: 20px;
+    font-size: 20px;
+  }
+
+  .maincontainer, p {
+    display: flex;
+    justify-content: center;
+    line-height: 1.9;
+  }
+
+  .nobutton, .yesbutton {
+
+    display: inline-block;
+
+  }

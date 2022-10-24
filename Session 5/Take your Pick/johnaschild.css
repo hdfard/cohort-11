@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+h1, h3 {
+    text-align: center;
+   padding: 10px;
+}
+
+.youngjohn {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}

@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+
+
+h1, p{
+    text-align: center;
+    padding: 15px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.johncontainer {
+
+    padding: 10px;
+    margin: 50px;
+    justify-content: space-around;
+
+}
+
+
+.noracontainer {
+    padding: 10px;
+    margin: 50px;
+    justify-content: space-around;
+
+}

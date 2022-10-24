@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+
+h1 {
+    text-align: center;
+    padding: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 30px;
+}

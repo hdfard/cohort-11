@@ -1,0 +1,33 @@
+
+
+• {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container, div {
+display: flex;
+}
+
+
+
+
+
+
+.xsmall {
+    background-color: rgb(110, 106, 178);
+    width: 50px;
+    border: 15px solid rgb(128, 0, 100);
+    justify-content: flex-end;
+    justify-content: space-between;
+  }
+
+  .small {
+    background-color: rgb(106, 178, 171);
+    width: 100px;
+    border: 15px solid rgb(128, 126, 0);
+    justify-content: center;
+    justify-content: space-between;
+  }
